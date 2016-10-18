@@ -1,0 +1,36 @@
+<div ng-controller="userController">
+	<h3>Welcome, {{currentUser.user.username}}!</h3>
+	<form>
+		<input type="text" placeholder="filter" ng-model="topicSearch">
+	</form>
+	<hr>
+	<table>
+		<thead>
+			<th>Category</th>
+			<th>Topic</th>
+			<th>User Name</th>
+			<th>Posts</th>
+		</thead>
+		<tbody>
+			<tr ng-repeat="topic in topics | orderBy: '-createdAt' | filter:topicSearch">
+				<td>{{topic._category}}</td>
+				<td><a href="#/topic/{{topic._id}}">{{topic.title}}</a></td>
+				<td><a href="#/user/{{topic._user}}">{{topic.name}}</a></td>
+				<td>{{topic._my_posts.length}}</td>
+			</tr>
+		</tbody>
+	</table>
+	<hr>
+	<h4>Add a new Topic</h4>
+	<form ng-submit="createTopic()" ng-model="topic">
+		<label>Topic: <input type="text" ng-model="topic.title"></label>
+		<label>Decsription: <input type="text" ng-model="topic.description"></label>
+		<label>Category:</label>
+		<select  ng-model="category._id">
+			<option ng-repeat="category in cateGories | orderBy: 'createdAt'">{{category}}</option>
+		</select>
+		<input type="submit" value="Submit">
+	</form>
+	<hr>
+	<a href="/logout">Logout</a>
+</div>

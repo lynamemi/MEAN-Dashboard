@@ -1,0 +1,28 @@
+<div ng-controller="userController">
+	<a href="/logout">Logout</a>
+	<a ng-href="#/dashboard"><button>Dashboard</button></a>
+	<h4>{{topic.name}} posted a topic: {{topic.title}}</h4>
+	<h5></h5>
+	<p>Description: {{topic.description}}</p>
+	<h4>Post your answer here:</h4>
+	<form ng-submit="createPost()">
+		<input type="hidden" ng-model="topic" value="{{topic.id}}">
+		<textarea cols="40" rows="8" ng-model="text"></textarea></br>
+		<input type="submit" value="Post">
+	</form>
+	<hr>
+	<div ng-repeat="post in posts">
+		<button ng-click="vote('up', post)">{{post.upvote}} ↑</button>
+		<button ng-click="vote('down', post)">{{post.downvote}} ↓</button>
+		<p><a href="#/user/{{post._user}}">{{post.name}}</a>: {{post.text}}</p>
+		<p>Comments:</p>
+		<ul>
+			<li ng-repeat="comment in post._comments"><a href="#/user/{{comment._user}}">{{comment.name}}</a>: {{comment.text}}</li>
+		</ul>
+		<form ng-submit="createComment(textComment, post)">
+			<textarea cols="40" rows="8" ng-model="textComment"></textarea></br>
+			<input type="submit" value="Comment">
+		</form>
+	<hr>
+	</div>
+</div>

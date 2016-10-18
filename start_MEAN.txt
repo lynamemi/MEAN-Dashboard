@@ -1,0 +1,500 @@
+   43  ls
+   44  npm install --save path
+   45  ls
+   46  nodemon server.js
+   47  cd ..
+   48  cd hello_express
+   49  ls
+   50  nodemon server.js
+   51  ps aux | grep node
+   52  kill -9 PID
+   53   killall -9 node
+   54  cd ..
+   55  cd survey_form/
+   56  ls
+   57  nodemon server.js
+   58  npm install express-session --save
+   59  nodemon server.js
+   60  npm install socket.io --save
+   61  nodemon server.js
+   62  nodemon server.js
+   63  nodemon server.js
+   64  cd ..
+   65  ls
+   66  mkdir epic_button_game
+   67  cd epic_button_game/
+   68  touch server.js
+   69  ls
+   70  mkdir views
+   71  mkdir static
+   72  cd views
+   73  touch index.ejs
+   74  cd .
+   75  .cd..
+   76  cd ..
+   77  npm install
+   78  nodemon server.js
+   79  cd Dropbox/
+   80  cd CodingDojo/
+   81  cd 3_MEAN/
+   82  cd week1/
+   83  ls
+   84  mkdir group_chat
+   85  ls
+   86  cd
+   87  ls
+   88  cd CodingDojo/
+   89  cd Dropbox/
+   90  cd CodingDojo/
+   91  cd 3_MEAN/
+   92  cd week1/
+   93  cd group_chat
+   94  ls
+   95  mkdir views
+   96  mkdir static
+   97  touch server.js
+   98  cd views
+   99  ls
+  100  touch index.ejs
+  101  cd ..
+  102  npm install
+  103  nodemon server.js
+  104  cd ..
+  105  cd ..
+  106  cd ..
+  107  ls
+  108  cd Resources/
+  109  ls
+  110  cd Coding\ Downloads/
+  111  brew install Mongodb
+  112  cd /
+  113  cd/
+  114  ls
+  115  mkdir data
+  116  sudo mkdir data
+  117  cd data
+  118  ls
+  119  mkdir db
+  120  sudo mkdir db
+  121  ls
+  122  mongod
+  123  sudo mongod
+  124  sudo mongod
+  125  sudo mongod
+  126  sudo mongod
+  127  mongo
+  128  sudo mongod
+  129  sudo mongod
+  130  sudo mongod
+  131  sudo mongod
+  132  sudo mongod
+  133  mongo
+  134  mongo
+  135  mongo
+  136  mongo
+  137  mongo
+  138  cd Dropbox/
+  139  cd CodingDojo/
+  140  cd 3_MEAN/
+  141  cd week1/
+  142  cd quoting_dojo/
+  143  nodemon server.js
+  144  npm install
+  145  nodemon server.js
+  146  npm install -g nodemon
+  147  cd ..
+  148  mkdir message_board
+  149  cd message_board/
+  150  mkdir views
+  151  cd views
+  152  touch index.ejs
+  153  cd ..
+  154  touch server.js
+  155  npm init -y
+  156  npm install express --save
+  157  npm install mongoose --save
+  158  npm install express-ejs --save
+  159  npm install body-parser --save
+  160  npm install
+  161  nodemon server.js
+  162  nodemon server.js
+  163  cd ,,
+  164  cd ..
+  165  ls
+  166  cd mongoose_dashboard
+  167  ls
+  168  mkdir server
+  169  mkdir client
+  170  cd server
+  171  mkdir config
+  172  mkdir controllers
+  173  mkdir models
+  174  cd config
+  175  touch mongoose.js
+  176  touch routes.js
+  177  cd ..
+  178  cd controllers
+  179  touch quotes.js
+  180  cd ..
+  181  touch quote.js
+  182  cd ..
+  183  nodemon server.js
+  184  cd ..
+  185  mkdir 1955_API
+  186  cd 1955_API/
+  187  mkdir server
+  188  touch server.js
+  189  cd server
+  190  mkdir config
+  191  mkdir controllers
+  192  mkdir models
+  193  cd config
+  194  tough mongoose.js
+  195  touch mongoose.js
+  196  touch routes.js
+  197  cd ..
+  198  cd controllers/
+  199  users.js
+  200  touch users.js
+  201  cd ..
+  202  cd models
+  203  touch user.js
+  204  cd ..
+  205  cd ..
+  206  npm install
+  207  npm install
+  208  nodemon server.js
+  209  cd Dropbox/
+  210  cd CodingDojo/
+  211  cd Resources/
+  212  cd Coding\ Downloads/
+  213  bower install angular
+  214  bower install angular-route
+  215  cd ..
+  216  cd ..
+  217  cd 3_MEAN/
+  218  cd week2
+  219  mkdir angular_data_binding
+  220  cd angular_data_binding/
+  221  bower install angular
+  222  touch index.html
+  223  subl index.html 
+  224  subl index.html 
+  225  cd ..
+  226  mkdir controllers_directives
+  227  cd controllers_directives/
+  228  touch index.html
+  229  bower install angular
+  230  subl index.html
+  231  cd Dropbox/
+  232  cd CodingDojo/
+  233  cd 3_MEAN/
+  234  cd week2
+  235  mkdir partials
+  236  cd partials
+  237  bower init
+  238  bower install angular
+  239  bower install angular-route
+  240  npm init -y
+  241  npm install express
+  242  npm install path
+  243  mkdir client
+  244  touch server.js
+  245  cd client
+  246  mkdir partials
+  247  cd partials
+  248  touch view1.html
+  249  touch view2.html
+  250  cd..
+  251  cd ..
+  252  cd ..
+  253  cd ..
+  254  cd client
+  255  cd partials
+  256  cd ..
+  257  cd partials_customUsers/
+  258  cd client
+  259  touch index.html
+  260  cd ..
+  261  nodemon server.js
+  262  npm install mongoose --save
+  263  npm install body-parser --save
+  264  nodemon server.js
+  265  nodemon server.js
+  266  cd ..
+  267  cd players_teams/
+  268  nodemon server.js
+  269  cd ..
+  270  git clone https://github.com/MikeHannon/AngularAssignment.git
+  271  cd AngularAssignment/
+  272  touch server.js
+  273  touch package.json
+  274  touch bower.json
+  275  bower install
+  276  npm install
+  277  bower install
+  278  npm install
+  279  ls
+  280  cd client
+  281  ls
+  282  mkdir js
+  283  mkdir static
+  284  ls
+  285  cd js
+  286  ls
+  287  mkdir controllers
+  288  mkdir factories
+  289  ls
+  290  cd factories
+  291  touch userFactory.js
+  292  cd ..
+  293  cd controllers
+  294  touch indexController.js
+  295  touch editController.js
+  296  newController.js
+  297  touch newController.js
+  298  cd ..
+  299  mkdir config
+  300  touch routes.js
+  301  cd ..
+  302  cd ..
+  303  nodemon server.js
+  304  cd ..
+  305  mkdir file_structure_simple_server
+  306  cd file_structure_simple_server/
+  307  bower init
+  308  npm init -y
+  309  mkdir client
+  310  mkdir server
+  311  touch server.js
+  312  cd client
+  313  mkdir assets
+  314  mkdir partials
+  315  touch index.html
+  316  cd ..
+  317  cd server
+  318  mkdir config
+  319  mkdir controllers
+  320  mkdir models
+  321  cd config
+  322  mkdir mongoose.js
+  323  touch mongoose.js
+  324  touch routes.js
+  325  touch mongoose.js
+  326  cd ..
+  327  cd ..
+  328  bower install angular --save
+  329  bower install angular-route --save
+  330  npm install body-parser --save
+  331  npm install express --save
+  332  npm install mongoose --save
+  333  npm install path --save
+  334  cd ..
+  335  cd angular_friends/
+  336  nodemon server.js
+  337  cd server
+  338  cd models
+  339  touch friend.js
+  340  cd ..
+  341  cd controllers
+  342  touch friends.ja
+  343  touch friends.js
+  344  rm -f *ja
+  345  ls
+  346  cd ..
+  347  cd ..
+  348  nodemon server.js
+  349  cd client
+  350  cd partials
+  351  touch new.html
+  352  touch edit.html
+  353  cd ..
+  354  cd assets
+  355  touch app.js
+  356  cd ..
+  357  touch index.html
+  358  cd ..
+  359  nodemon server.js
+  360  ls
+  361  cd client
+  362  ls
+  363  cd assets
+  364  ls
+  365  mkdir controllers
+  366  mkdir factories
+  367  cd controllers
+  368  touch newController.js
+  369  touch editController.js
+  370  cd ..
+  371  cd factories
+  372  ls
+  373  touch friendsFactory.js
+  374  cd ..
+  375  cd ..
+  376  cd ..
+  377  sudo mongod
+  378  sudo mongod
+  379  sudo mongod
+  380  cd  Dropbox/
+  381  cd CodingDojo/
+  382  cd 3_MEAN/
+  383  ls
+  384  cd week2
+  385  ls
+  386  cd angualr_f
+  387  cd angular_friends
+  388  ls
+  389  nodemon server.js
+  390  cd ..
+  391  cd Dropbox/
+  392  cd CodingDojo/
+  393  ls
+  394  cd 3_MEAN/
+  395  ls
+  396  cd week2
+  397  ls
+  398  cd angular_friends
+  399  ls
+  400  nodemon server.js
+  401  git add remote origin
+  402  git add remote origin https://github.com/lynamemi/FriendsApp.git
+  403  git remote add origin https://github.com/lynamemi/FriendsApp.git
+  404  git init
+  405  git remote add origin https://github.com/lynamemi/FriendsApp.git
+  406  git pull origin master
+  407  git add .
+  408  git commit -m"first commit"
+  409  git status
+  410  git branch
+  411  git push origin master
+  412  cd ..
+  413  mkdir login_reg
+  414  cd login_reg/
+  415  touch server.js
+  416  mkdir client
+  417  mkdir server
+  418  cd client
+  419  mkdir assets
+  420  mkdir partials
+  421  touch index.html
+  422  cd assets
+  423  mkdir controllers
+  424  mkdir factories
+  425  touch app.js
+  426  cd controllers/
+  427  touch logRegController.js
+  428  cd ..
+  429  cd controllers
+  430  cd ..
+  431  cd factories
+  432  touch logRegFactory.js
+  433  cd ..
+  434  cd ..
+  435  cd partials/
+  436  touch login.html
+  437  touch registration.html
+  438  cd ..
+  439  cd ..
+  440  ls
+  441  cd client
+  442  ls
+  443  cd ..
+  444  cd server
+  445  ls
+  446  mkdir controllers
+  447  mkdir config
+  448  mkdir models
+  449  cd config
+  450  touch mongoose.js
+  451  touch routes.js
+  452  cd ..
+  453  cd controllers
+  454  touch users.js
+  455  cd ..
+  456  cd models
+  457  touch user.js
+  458  ls
+  459  cd ..
+  460  ls
+  461  cd ..
+  462  ls
+  463  ls
+  464  bower install
+  465  npm install
+  466  bower install angular-cookies
+  467  nodemon server.js
+  468  npm install bcrypt --save
+  469  nodemon server.js
+  470  nodemon server.js
+  471  nodemon server.js
+  472  sudo mongod
+  473  sudo mongod
+  474  sudo mongod
+  475  sudo mongod
+  476  cd Dropbox/
+  477  cd CodingDojo/
+  478  cd 3_MEAN/
+  479  ls
+  480  cd week2
+  481  ls
+  482  cd login_reg
+  483  ls
+  484  nodemon server.js
+  485  bower install angular-cookies --save
+  486  nodemon server.js
+  487  cd Drio
+  488  cd Dropbox/
+  489  cd CodingDojo/
+  490  cd 1_Python/
+  491  ls
+  492  cd Pyth
+  493  cd Python_Project/
+  494  cd GamePlanner/
+  495  ls
+  496  git add .
+  497  git commit -m"added demo video"
+  498  git push origin master
+  499  curl -L https://iterm2.com/misc/install_shell_integration_and_utilities.sh | bash
+  500  cd Dropbox
+  501  cd Dropbox
+  502  cd CodingDojo/
+  503  cd 3_MEAN/
+  504  cd week3
+  505  ls
+  506  cd discussion_board
+  507  mkdir discussion_board
+  508  cd discussion_board
+  509  mkdir client
+  510  mkdir server
+  511  touch server.js
+  512  cd client
+  513  mkdir assets
+  514  mkdir partials
+  515  touch index.html
+  516  cd ..
+  517  cd server
+  518  mkdir config
+  519  mkdir controllers
+  520  mkdir models
+  521  cd config
+  522  touch mongoose.js
+  523  touch routes.js
+  524  cd ..
+  525  cd controllers
+  526  touch users.js
+  527  cd..
+  528  cd ..
+  529  cd modeks
+  530  cd models
+  531  touch user.js
+  532  cd ..
+  533  cd ..
+  534  cd client
+  535  cd assets
+  536  mkdir controllers
+  537  mkdir factories
+  538  touch app.js
+  539  cd ..
+  540  cd ..
+  541  history
+  542  history > start_MEAN.txt
